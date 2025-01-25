@@ -1,0 +1,2 @@
+# blog_pribadi
+web
